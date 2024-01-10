@@ -15,7 +15,7 @@ Users should be able to:
 
 ### 💻 Screenshot
 
-![Desktop](./src/notif-page-screenshot.PNG)
+![Desktop](/src/assets/notif-page-screenshot.PNG)
 
 ### 🔗 Links
 
