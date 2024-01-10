@@ -15,12 +15,12 @@ Users should be able to:
 
 ### 💻 Screenshot
 
-(./src/notif-page-screenshot.PNG)
+![Desktop](./src/notif-page-screenshot.PNG)
 
 ### 🔗 Links
 
-- Solution URL: (https://github.com/hannah-alcantara/react-notif-page)
-- Live Site URL: (https://hannah-alcantara.github.io/react-notif-page/)
+- Solution URL: (https://github.com/hannah-alcantara/fm-notification-page)
+- Live Site URL: (https://hannah-alcantara.github.io/fm-notification-page)
 
 ### 🛠️ Built with
 
