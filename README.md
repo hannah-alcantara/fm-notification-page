@@ -19,8 +19,8 @@ Users should be able to:
 
 ### 🔗 Links
 
-- Solution URL: (https://github.com/hannah-alcantara/fm-notification-page)
-- Live Site URL: (https://hannah-alcantara.github.io/fm-notification-page)
+- [Solution URL](https://github.com/hannah-alcantara/fm-notification-page)
+- [Live Site URL](https://hannah-alcantara.github.io/fm-notification-page)
 
 ### 🛠️ Built with
 
