@@ -7,7 +7,7 @@ function NotificationItem() {
       id: "1",
       author: {
         name: "Mark Webber",
-        src: "/images/avatar-mark-webber.webp",
+        src: "images/avatar-mark-webber.webp",
         href: "#",
       },
       action: "reacted to your recent post",
@@ -22,7 +22,7 @@ function NotificationItem() {
       id: "2",
       author: {
         name: "Angela Gray",
-        src: "/images/avatar-angela-gray.webp",
+        src: "images/avatar-angela-gray.webp",
         href: "#",
       },
       action: "followed you",
@@ -33,7 +33,7 @@ function NotificationItem() {
       id: "3",
       author: {
         name: "Jacob Thompson",
-        src: "/images/avatar-jacob-thompson.webp",
+        src: "images/avatar-jacob-thompson.webp",
         href: "#",
       },
       action: "has joined your group",
@@ -48,7 +48,7 @@ function NotificationItem() {
       id: "4",
       author: {
         name: "Rizky Hasanuddin",
-        src: "/images/avatar-rizky-hasanuddin.webp",
+        src: "images/avatar-rizky-hasanuddin.webp",
         href: "#",
       },
       action: "sent you a private message",
@@ -61,11 +61,11 @@ function NotificationItem() {
       id: "5",
       author: {
         name: "Kimberly Smith",
-        src: "/images/avatar-kimberly-smith.webp",
+        src: "images/avatar-kimberly-smith.webp",
         href: "#",
       },
       action: "commented on your picture",
-      image: "/images/image-chess.webp",
+      image: "images/image-chess.webp",
       time: "1 week ago",
       isRead: false,
     },
@@ -73,7 +73,7 @@ function NotificationItem() {
       id: "6",
       author: {
         name: "Nathan Peterson",
-        src: "/images/avatar-nathan-peterson.webp",
+        src: "images/avatar-nathan-peterson.webp",
         href: "#",
       },
       action: "reacted to you recent post",
@@ -88,7 +88,7 @@ function NotificationItem() {
       id: "7",
       author: {
         name: "Anna Kim",
-        src: "/images/avatar-anna-kim.webp",
+        src: "images/avatar-anna-kim.webp",
         href: "#",
       },
       action: "left the group",
