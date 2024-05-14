@@ -32,5 +32,5 @@ Users should be able to:
 
 ## 👩‍💻 Author
 
-- Website - [Hannah Alcantara](#)
+- Hannah Alcantara
 - Frontend Mentor - [@hannah-alcantara](https://www.frontendmentor.io/profile/hannah-alcantara)
