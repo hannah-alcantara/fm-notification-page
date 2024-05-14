@@ -30,7 +30,5 @@ Users should be able to:
 - CSS Grid
 - [React](https://reactjs.org/) - JS library
 
-## 👩‍💻 Author
-
-- Hannah Alcantara
-- Frontend Mentor - [@hannah-alcantara](https://www.frontendmentor.io/profile/hannah-alcantara)
+## 👩‍💻 Author - Hannah Alcantara
+- [Frontend Mentor](https://www.frontendmentor.io/profile/hannah-alcantara)
